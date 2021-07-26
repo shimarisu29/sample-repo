@@ -1,2 +1,2 @@
 # sample-repo
-更新
+GIt 学習用
